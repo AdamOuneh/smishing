@@ -9,6 +9,7 @@ android {
     namespace = "com.example.smishingdetectionapp"
     compileSdk = 34
 
+
     defaultConfig {
         ndk {
             // On Apple silicon, you can omit x86_64.
